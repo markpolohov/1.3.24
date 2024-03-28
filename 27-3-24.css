@@ -107,7 +107,7 @@ img-background--sea {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('');
 background-size: cover;
      background-repeat: no-repeat;
-     color: #fff;
+     color: #FF3F3F;
 }
 
 .img-background--wave {
