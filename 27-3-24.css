@@ -114,7 +114,7 @@ background: orange;
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото2');
 background: violet;
 }
-.theme-teal l-grid l-grid__item align-center {color:red;}
+.krasnya_ssil {color:red;}
 .img-background--horizon {
      background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото3');
      background-size: cover;
