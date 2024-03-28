@@ -105,16 +105,10 @@ body {
 }
 img-background--sea {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/markpolohov/1.3.24/main/george-ayres-mousinho-borderlands-elpis-2.jpg');
-background-size: cover;
-     background-repeat: no-repeat;
-     color: #fff;
 }
 
 .img-background--wave {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/markpolohov/1.3.24/main/george-ayres-mousinho-borderlands-elpis-2.jpg');
-background-size: cover;
-     background-repeat: no-repeat;
-     color: #fff;
 }
 
 .img-background--horizon {
