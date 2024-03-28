@@ -104,12 +104,6 @@ body {
      color: #fff;
 }
 
-.theme-blue {
-grid-column-start:1; grid-column-end }
-.theme-aqua { }
-.theme-ultramarine { }
-.theme-pearl { } 
-.theme-diamond { }
 
 .img-background--sea {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото1');
