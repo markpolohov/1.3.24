@@ -103,24 +103,22 @@ body {
      background-position: center center;
      color: #fff;
 }
-
-
-.pandora {
-background: orange;
-	background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/markpolohov/1.3.24/main/pandora.png');
+img-background--sea {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото1');
 }
 
-.george-ayres-mousinho-borderlands-elpis-2 {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/markpolohov/1.3.24/main/george-ayres-mousinho-borderlands-elpis-2.jpg');
-background: violet;
+.img-background--wave {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото2');
 }
-.krasnya_ssil--description--theme-teal l-grid l-grid__item align-center:link {color:red;}
-.legendary-planet-of-nekrotafeyo-home-world-of-the-eridians-v0-784vw0qphcw9 {
-     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/markpolohov/1.3.24/main/legendary-planet-of-nekrotafeyo-home-world-of-the-eridians-v0-784vw0qphcw91.png');
+
+.img-background--horizon {
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('расположение фото3');
      background-size: cover;
      background-repeat: no-repeat;
      color: #fff;
 }
+
+
 
 
 
