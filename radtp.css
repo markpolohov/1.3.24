@@ -44,10 +44,10 @@ margin: auto; border: 2px solid #CCC; padding: 5px;
   cursor: pointer;
 }
 
-.gallery .mainImg i.fa fa-chevron-circle-left fa-2x {
+.gallery .mainImg i.fa fa-chevron-circle-left {
   left: 0;
 }
-.gallery .mainImg i.fa fa-chevron-circle-right fa-2x {
+.gallery .mainImg i.fa fa-chevron-circle-right {
   right: 0;
 }
 
