@@ -44,10 +44,10 @@ margin: auto; border: 2px solid #CCC; padding: 5px;
   cursor: pointer;
 }
 
-.gallery .mainImg i.fa-arrow-left{
+.gallery .mainImg i.fa fa-arrow-left{
   left: 0;
 }
-.gallery .mainImg i.fa-arrow-right {
+.gallery .mainImg i.fa fa-arrow-right {
   right: 0;
 }
 
